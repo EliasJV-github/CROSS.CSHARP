@@ -1,0 +1,13 @@
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.EXCEPTION\bin\Debug\net10.0\CROSS.EXCEPTION.deps.json
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.EXCEPTION\bin\Debug\net10.0\CROSS.EXCEPTION.dll
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.EXCEPTION\bin\Debug\net10.0\CROSS.EXCEPTION.pdb
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.EXCEPTION\obj\Debug\net10.0\CROSS.EXCEPTION.csproj.AssemblyReference.cache
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.EXCEPTION\obj\Debug\net10.0\CROSS.EXCEPTION.GeneratedMSBuildEditorConfig.editorconfig
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.EXCEPTION\obj\Debug\net10.0\CROSS.EXCEPTION.AssemblyInfoInputs.cache
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.EXCEPTION\obj\Debug\net10.0\CROSS.EXCEPTION.AssemblyInfo.cs
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.EXCEPTION\obj\Debug\net10.0\CROSS.EXCEPTION.csproj.CoreCompileInputs.cache
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.EXCEPTION\obj\Debug\net10.0\CROSS.EXCEPTION.sourcelink.json
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.EXCEPTION\obj\Debug\net10.0\CROSS.EXCEPTION.dll
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.EXCEPTION\obj\Debug\net10.0\refint\CROSS.EXCEPTION.dll
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.EXCEPTION\obj\Debug\net10.0\CROSS.EXCEPTION.pdb
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.EXCEPTION\obj\Debug\net10.0\ref\CROSS.EXCEPTION.dll

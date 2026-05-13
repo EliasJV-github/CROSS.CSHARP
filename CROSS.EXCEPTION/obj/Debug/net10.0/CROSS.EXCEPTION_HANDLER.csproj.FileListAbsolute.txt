@@ -1,0 +1,13 @@
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-cli-core-api\CROSS.EXCEPTION_HANDLER\bin\Debug\net10.0\CROSS.EXCEPTION_HANDLER.deps.json
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-cli-core-api\CROSS.EXCEPTION_HANDLER\bin\Debug\net10.0\CROSS.EXCEPTION_HANDLER.dll
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-cli-core-api\CROSS.EXCEPTION_HANDLER\bin\Debug\net10.0\CROSS.EXCEPTION_HANDLER.pdb
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-cli-core-api\CROSS.EXCEPTION_HANDLER\obj\Debug\net10.0\CROSS.EXCEPTION_HANDLER.csproj.AssemblyReference.cache
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-cli-core-api\CROSS.EXCEPTION_HANDLER\obj\Debug\net10.0\CROSS.EXCEPTION_HANDLER.GeneratedMSBuildEditorConfig.editorconfig
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-cli-core-api\CROSS.EXCEPTION_HANDLER\obj\Debug\net10.0\CROSS.EXCEPTION_HANDLER.AssemblyInfoInputs.cache
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-cli-core-api\CROSS.EXCEPTION_HANDLER\obj\Debug\net10.0\CROSS.EXCEPTION_HANDLER.AssemblyInfo.cs
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-cli-core-api\CROSS.EXCEPTION_HANDLER\obj\Debug\net10.0\CROSS.EXCEPTION_HANDLER.csproj.CoreCompileInputs.cache
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-cli-core-api\CROSS.EXCEPTION_HANDLER\obj\Debug\net10.0\CROSS.EXCEPTION_HANDLER.sourcelink.json
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-cli-core-api\CROSS.EXCEPTION_HANDLER\obj\Debug\net10.0\CROSS.EXCEPTION_HANDLER.dll
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-cli-core-api\CROSS.EXCEPTION_HANDLER\obj\Debug\net10.0\refint\CROSS.EXCEPTION_HANDLER.dll
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-cli-core-api\CROSS.EXCEPTION_HANDLER\obj\Debug\net10.0\CROSS.EXCEPTION_HANDLER.pdb
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-cli-core-api\CROSS.EXCEPTION_HANDLER\obj\Debug\net10.0\ref\CROSS.EXCEPTION_HANDLER.dll
