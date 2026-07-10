@@ -1,0 +1,16 @@
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.APIREST\bin\Debug\net10.0\CROSS.APIREST.deps.json
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.APIREST\bin\Debug\net10.0\CROSS.APIREST.dll
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.APIREST\bin\Debug\net10.0\CROSS.APIREST.pdb
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.APIREST\bin\Debug\net10.0\CROSS.LOGGER.dll
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.APIREST\bin\Debug\net10.0\CROSS.LOGGER.pdb
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.APIREST\obj\Debug\net10.0\CROSS.APIREST.csproj.AssemblyReference.cache
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.APIREST\obj\Debug\net10.0\CROSS.APIREST.GeneratedMSBuildEditorConfig.editorconfig
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.APIREST\obj\Debug\net10.0\CROSS.APIREST.AssemblyInfoInputs.cache
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.APIREST\obj\Debug\net10.0\CROSS.APIREST.AssemblyInfo.cs
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.APIREST\obj\Debug\net10.0\CROSS.APIREST.csproj.CoreCompileInputs.cache
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.APIREST\obj\Debug\net10.0\CROSS.APIREST.sourcelink.json
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.APIREST\obj\Debug\net10.0\CROSS.AP.2BAF41A0.Up2Date
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.APIREST\obj\Debug\net10.0\CROSS.APIREST.dll
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.APIREST\obj\Debug\net10.0\refint\CROSS.APIREST.dll
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.APIREST\obj\Debug\net10.0\CROSS.APIREST.pdb
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.APIREST\obj\Debug\net10.0\ref\CROSS.APIREST.dll
