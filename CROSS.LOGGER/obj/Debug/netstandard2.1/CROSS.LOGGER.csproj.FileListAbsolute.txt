@@ -1,0 +1,11 @@
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.LOGGER\bin\Debug\netstandard2.1\CROSS.LOGGER.deps.json
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.LOGGER\bin\Debug\netstandard2.1\CROSS.LOGGER.dll
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.LOGGER\bin\Debug\netstandard2.1\CROSS.LOGGER.pdb
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.LOGGER\obj\Debug\netstandard2.1\CROSS.LOGGER.csproj.AssemblyReference.cache
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.LOGGER\obj\Debug\netstandard2.1\CROSS.LOGGER.GeneratedMSBuildEditorConfig.editorconfig
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.LOGGER\obj\Debug\netstandard2.1\CROSS.LOGGER.AssemblyInfoInputs.cache
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.LOGGER\obj\Debug\netstandard2.1\CROSS.LOGGER.AssemblyInfo.cs
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.LOGGER\obj\Debug\netstandard2.1\CROSS.LOGGER.csproj.CoreCompileInputs.cache
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.LOGGER\obj\Debug\netstandard2.1\CROSS.LOGGER.sourcelink.json
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.LOGGER\obj\Debug\netstandard2.1\CROSS.LOGGER.dll
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.LOGGER\obj\Debug\netstandard2.1\CROSS.LOGGER.pdb

@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = CROSS.LOGGER
+build_property.ProjectDir = D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.LOGGER\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
