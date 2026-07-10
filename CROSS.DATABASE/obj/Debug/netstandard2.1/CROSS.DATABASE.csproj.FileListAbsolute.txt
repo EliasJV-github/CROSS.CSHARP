@@ -1,0 +1,16 @@
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.DATABASE\bin\Debug\netstandard2.1\CROSS.DATABASE.deps.json
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.DATABASE\bin\Debug\netstandard2.1\CROSS.DATABASE.dll
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.DATABASE\bin\Debug\netstandard2.1\CROSS.DATABASE.pdb
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.DATABASE\bin\Debug\netstandard2.1\CROSS.LOGGER.dll
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.DATABASE\bin\Debug\netstandard2.1\CROSS.SECRYPT.dll
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.DATABASE\bin\Debug\netstandard2.1\CROSS.LOGGER.pdb
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.DATABASE\bin\Debug\netstandard2.1\CROSS.SECRYPT.pdb
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.DATABASE\obj\Debug\netstandard2.1\CROSS.DATABASE.csproj.AssemblyReference.cache
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.DATABASE\obj\Debug\netstandard2.1\CROSS.DATABASE.GeneratedMSBuildEditorConfig.editorconfig
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.DATABASE\obj\Debug\netstandard2.1\CROSS.DATABASE.AssemblyInfoInputs.cache
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.DATABASE\obj\Debug\netstandard2.1\CROSS.DATABASE.AssemblyInfo.cs
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.DATABASE\obj\Debug\netstandard2.1\CROSS.DATABASE.csproj.CoreCompileInputs.cache
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.DATABASE\obj\Debug\netstandard2.1\CROSS.DATABASE.sourcelink.json
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.DATABASE\obj\Debug\netstandard2.1\CROSS.DA.77AC5C8E.Up2Date
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.DATABASE\obj\Debug\netstandard2.1\CROSS.DATABASE.dll
+D:\JoseVargas\ReposGitHub\OLIVIA_V3\assistant-core\CROSS.DATABASE\obj\Debug\netstandard2.1\CROSS.DATABASE.pdb
