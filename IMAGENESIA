@@ -1,0 +1,49 @@
+PRONT NIVELES IA
+Nivel 1: El Bit Mecánico y de Vacío (Prehistoria de la IA)
+Concepto técnico: Los albores del procesamiento binario. El hardware antes del silicio, basado en relés mecánicos y tubos de vacío que controlaban el flujo eléctrico para realizar lógica matemática rudimentaria.
+
+Concepto visual minimalista: Una silueta perfectamente limpia de un único tubo de vacío (válvula electrónica) iluminado por un filamento central sobre un fondo oscuro, o un interruptor geométrico binario mecánico simplificado.
+
+Paleta sugerida: Negro mate, gris Oxford y un sutil toque de naranja neón para el filamento.
+
+Nivel 2: La CPU de Propósito General (La Era del Silicio Lineal)
+Concepto técnico: El nacimiento del microprocesador moderno de silicio (Arquitectura Von Neumann). El hardware procesa instrucciones de una en una (secuencialmente) a altas velocidades de reloj, ideal para algoritmos basados en reglas puras y lógica fija.
+
+Concepto visual minimalista: Un plano cenital de un microchip cuadrado básico (CPU) con líneas metálicas ultra-delgadas y ortogonales que nacen de sus bordes formando un circuito perfectamente simétrico.
+
+Paleta sugerida: Blanco puro, líneas gris plata y un fondo gris claro neutro.
+
+Nivel 3: El Almacenamiento Masivo y Racks Distribuidos (La Era de los Datos)
+Concepto técnico: Para que la IA pudiera aprender mediante estadística, el hardware necesitó escalar en volumen. Aparece el almacenamiento masivo y los primeros clusters de servidores interconectados para procesar bases de datos masivas.
+
+Concepto visual minimalista: Tres líneas verticales paralelas de racks de servidores reducidas a rectángulos alargados, donde cada uno tiene un único punto luminoso diminuto que indica actividad.
+
+Paleta sugerida: Gris oscuro, gris pizarra y puntos de luz verde led.
+
+Nivel 4: El Boom de la GPU (Cómputo Matricial en Paralelo)
+Concepto técnico: El verdadero catalizador del Deep Learning. Se descubre que los procesadores gráficos (GPUs), diseñados para renderizar millones de píxeles simultáneamente, son perfectos para calcular las pesadas matrices matemáticas de las redes neuronales.
+
+Concepto visual minimalista: Un núcleo central dividido en una rejilla perfecta (matriz) de miles de pequeños cuadrados idénticos que brillan al unísono, representando el procesamiento masivo en paralelo.
+
+Paleta sugerida: Azul cobalto profundo, cian eléctrico y fondo negro.
+
+Nivel 5: Chips de Silicio Dedicados (TPUs y ASICs de IA)
+Concepto técnico: Las GPUs ya no son suficientes por su consumo energético. La ingeniería de hardware diseña chips construidos exclusivamente para álgebra lineal e IA, como las TPUs (Tensor Processing Units). El hardware se adapta exactamente a la estructura del software de tensores.
+
+Concepto visual minimalista: Un diseño de chip donde los circuitos internos forman una estructura tridimensional abstracta (un cubo de tensores o hipercubo) perfectamente delineado por vectores finos.
+
+Paleta sugerida: Blanco, fondo gris cemento y acentos en oro texturizado para las conexiones del chip.
+
+Nivel 6: Supercomputación a Escala Exa (Clústeres y Conectividad)
+Concepto técnico: El hardware actual de frontera. Ya no se trata de un chip, sino de miles de aceleradores de IA enlazados por arquitecturas de interconexión de altísima velocidad y ancho de banda, consumiendo megavatios de energía para entrenar modelos de billones de parámetros.
+
+Concepto visual minimalista: Una red de nodos geométricos interconectados por haces de luz continuos, simulando una autopista de datos fluida y unificada que envuelve un núcleo abstracto.
+
+Paleta sugerida: Negro profundo, líneas violetas y destellos de luz blanca.
+
+Nivel 7: NPUs e Inferencia Local (La IA Everywhere)
+Concepto técnico: La migración del hardware desde la nube hacia el borde. El desarrollo de NPUs (Neural Processing Units) minúsculas y ultra-eficientes integradas directamente en SoC (System on Chip) de teléfonos, laptops y electrodomésticos para ejecutar IA en tiempo real sin internet.
+
+Concepto visual minimalista: Un contorno minimalista de un procesador moderno, donde un pequeño sub-módulo central (la NPU) brilla de manera independiente, irradiando ondas circulares limpias hacia el exterior.
+
+Paleta sugerida: Monocromático (Escala de grises pura, jugando con sombras sutiles y luz blanca).
